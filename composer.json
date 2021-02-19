@@ -16,9 +16,9 @@
         "docs": "https://www.getawesomestudio.com/enterprise-tutorial/"
     },
     "require": {
-        "php": ">=7.0",
+        "php": ">=7.4",
         "composer/installers": "~1.0",
-        "oomphinc/composer-installers-extender": "^2.0",
+        "oomphinc/composer-installers-extender": "^2.0"
     },
 	 "extra": { 
 		"installer-name": "code"
